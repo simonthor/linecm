@@ -1,1 +1,2 @@
-# linecm\n Plot a line with changing color over the course of a line
+# linecm
+Plot a line with changing color over the course of a line
