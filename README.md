@@ -21,7 +21,7 @@ title("linecm")
 ```
 ![](linecm_demo.png)
 
-Clearly, the `linecm` looks much better!
+Clearly, `linecm` looks much better!
 
 ## Colormaps
 In this file, two additional colormaps have been added: `coolwarm` and `bwr`, inspired by matplotlib. You can read more about them [here](https://matplotlib.org/stable/tutorials/colors/colormaps.html#diverging).
