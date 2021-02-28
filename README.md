@@ -25,3 +25,6 @@ Clearly, `linecm` looks much better!
 
 ## Colormaps
 In this file, two additional colormaps have been added: `coolwarm` and `bwr`, inspired by matplotlib. You can read more about them [here](https://matplotlib.org/stable/tutorials/colors/colormaps.html#diverging).
+
+## Trivia
+Might be quite obvious but `linecm` stands for "line colormap".
